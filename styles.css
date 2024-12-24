@@ -9,6 +9,10 @@ body {
   text-align: center;
 }
 
+h1, p {
+  color: white;
+}
+
 .avatar {
   width: 40px;
   border-radius: 50%;
