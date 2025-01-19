@@ -28,7 +28,7 @@ body {
 .profile {
   position: relative;
   top: 50%;
- transform-origin: 547px 547px;
+  transform-origin: 50% 50%; /* Center of the element */
 }
 
 .profile-image {
