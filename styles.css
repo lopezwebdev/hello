@@ -28,7 +28,7 @@ body {
 .profile {
   position: relative;
   top: 50%;
-  transform: translateY(-50%);
+ transform-origin: 547px 547px;
 }
 
 .profile-image {
